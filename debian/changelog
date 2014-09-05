@@ -1,4 +1,10 @@
-ti-cgt-c6x (8.0.0B4-0ubuntu0~ppa1) trusty; urgency=high
+ti-cgt-c6x (8.0.0B4-0ubuntu0~ppa1+dannf.1) UNRELEASED; urgency=medium
+
+  * Review comments
+
+ -- dann frazier <dann.frazier@canonical.com>  Fri, 05 Sep 2014 13:03:25 -0600
+
+ti-cgt-c6x (8.0.0B4-0ubuntu0~ppa1+dannf.1) trusty; urgency=high
 
   * Release of the TI C6000 Code Generation Tools
 
