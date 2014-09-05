@@ -9,7 +9,6 @@ Homepage: http://processors.wiki.ti.com/index.php/Category:Compiler
 Package: ti-cgt-c6x
 Depends: ${misc:Depends}
 Architecture: armhf
-Replaces: ti-cgt-c6x (<< 8.0.0B4)
 Description: TI C6x C/C++ Compiler
  The C6000 C/C++ Compiler (for Linux ARM Cortex-A8/A9/A15).  This compiler
  compiles C and C++ code for C6000 cores on TI devices.  This version
