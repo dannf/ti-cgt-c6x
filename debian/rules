@@ -2,3 +2,6 @@
 %:
 	dh $@ 
 
+override_dh_clean:
+	dh_clean
+	cat debian/copyright.in ./usr/share/doc/ti/cgt-c6x/ti-cgt-c6x_*.spdx > debian/copyright
